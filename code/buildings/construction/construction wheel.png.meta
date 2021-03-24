@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 1e03feb54f2a1ee4fa05715e2a395a8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7956084008145027148
+    second: construction wheel_0
+  - first:
+      213: 7498997604978895494
+    second: construction wheel_1
+  - first:
+      213: -3347545836092853555
+    second: construction wheel
+  - first:
+      213: 3892369457416011259
+    second: construction wheel_3
+  - first:
+      213: 3431441873743794239
+    second: construction wheel_4
+  - first:
+      213: 6627267107036517311
+    second: construction wheel_5
+  - first:
+      213: -2017956590491553070
+    second: construction wheel_6
+  - first:
+      213: -2883380234353196252
+    second: construction wheel_7
+  - first:
+      213: 4132620136029838064
+    second: construction wheel_8
+  - first:
+      213: 6262916294453185461
+    second: construction wheel_9
+  - first:
+      213: -8584274442559719241
+    second: construction wheel_10
+  - first:
+      213: -212402208835916672
+    second: construction wheel_11
+  - first:
+      213: -4776134110241973694
+    second: construction wheel_12
+  - first:
+      213: -3611682851549796724
+    second: construction wheel_13
+  - first:
+      213: -8813187904025185884
+    second: construction wheel_14
+  - first:
+      213: -4135723045666146407
+    second: construction wheel_15
+  - first:
+      213: -6790027615934072758
+    second: construction wheel_16
+  - first:
+      213: 3788815987334364498
+    second: construction wheel_17
+  - first:
+      213: -2419979071166257864
+    second: construction wheel_18
+  - first:
+      213: 8502822043534190037
+    second: construction wheel_19
+  - first:
+      213: 1128397751025544008
+    second: construction wheel_20
+  - first:
+      213: 5766299871784325660
+    second: construction wheel_21
+  - first:
+      213: -8636538840077419338
+    second: construction wheel_22
+  - first:
+      213: -3719878197166375698
+    second: construction wheel_23
+  - first:
+      213: 2665438002976703805
+    second: construction wheel_24
+  - first:
+      213: 3025050732230789107
+    second: construction wheel_25
+  - first:
+      213: 5478743513991689649
+    second: construction wheel_26
+  - first:
+      213: 2675133443911111626
+    second: construction wheel_27
+  - first:
+      213: -2696135986094287833
+    second: construction wheel_28
+  - first:
+      213: -2835865654130204056
+    second: construction wheel_29
+  - first:
+      213: -6290330850939170312
+    second: construction wheel_30
+  - first:
+      213: 7283104072240315419
+    second: construction wheel_31
+  - first:
+      213: -6273647884424093411
+    second: construction wheel_32
+  - first:
+      213: 2200895716844790055
+    second: construction wheel_33
+  - first:
+      213: -5277746641326941084
+    second: construction wheel_34
+  - first:
+      213: -5236175006644083921
+    second: construction wheel_35
+  - first:
+      213: -8553188645572311656
+    second: construction wheel_36
+  - first:
+      213: 7093947751204208008
+    second: construction wheel_37
+  - first:
+      213: -5279226095157690627
+    second: construction wheel_38
+  - first:
+      213: -2708458429992925317
+    second: construction wheel_39
+  - first:
+      213: -6416451936921044504
+    second: construction wheel_40
+  - first:
+      213: 3812552512946529801
+    second: construction wheel_41
+  - first:
+      213: 5831299947334801249
+    second: construction wheel_42
+  - first:
+      213: 1524999141531933821
+    second: construction wheel_43
+  - first:
+      213: -4904099199147695800
+    second: construction wheel_44
+  - first:
+      213: 7313473910810166307
+    second: construction wheel_45
+  - first:
+      213: 4389941309583184125
+    second: construction wheel_46
+  - first:
+      213: 1589747482631190815
+    second: construction wheel_47
+  - first:
+      213: 1970821220065385452
+    second: construction wheel_48
+  - first:
+      213: -280063897661007617
+    second: construction wheel_49
+  - first:
+      213: 4713321426909034681
+    second: construction wheel_50
+  - first:
+      213: -6828261194103572724
+    second: construction wheel_51
+  - first:
+      213: -1855141336376535367
+    second: construction wheel_52
+  - first:
+      213: -7739353850705424992
+    second: construction wheel_53
+  - first:
+      213: -5983204268135100451
+    second: construction wheel_54
+  - first:
+      213: -4030175879936920804
+    second: construction wheel_55
+  - first:
+      213: 6574300713968261789
+    second: construction wheel_56
+  - first:
+      213: -2660273040296515232
+    second: construction wheel_57
+  - first:
+      213: -1658921168092123936
+    second: construction wheel_58
+  - first:
+      213: 9122648107718319353
+    second: construction wheel_59
+  - first:
+      213: 1830275353096739087
+    second: construction wheel_60
+  - first:
+      213: -4172666799580337533
+    second: construction wheel_61
+  - first:
+      213: -9037895611418504285
+    second: construction wheel_62
+  - first:
+      213: -5834931620713602231
+    second: construction wheel_63
+  - first:
+      213: 697596059771083225
+    second: construction wheel_64
+  - first:
+      213: -4303690207737569374
+    second: construction wheel_65
+  - first:
+      213: -1310131391610348935
+    second: construction wheel_66
+  - first:
+      213: -6311635421824981465
+    second: construction wheel_67
+  - first:
+      213: -6412351191491525214
+    second: construction wheel_68
+  - first:
+      213: 3717325260844594224
+    second: construction wheel_69
+  - first:
+      213: 1301799833353178935
+    second: construction wheel_70
+  - first:
+      213: 5997494753860736664
+    second: construction wheel_71
+  - first:
+      213: 5916514322100163577
+    second: construction wheel_72
+  - first:
+      213: -6666677764350922248
+    second: construction wheel_73
+  - first:
+      213: -537673201155409636
+    second: construction wheel_74
+  - first:
+      213: 2767844856842419264
+    second: construction wheel_75
+  - first:
+      213: 115885297620667884
+    second: construction wheel_76
+  - first:
+      213: -3593745706410563628
+    second: construction wheel_77
+  - first:
+      213: 5393988012361475990
+    second: construction wheel_78
+  - first:
+      213: 1052164090593239144
+    second: construction wheel_79
+  - first:
+      213: 5123233250367579739
+    second: construction wheel_80
+  - first:
+      213: -1882481524338076299
+    second: construction wheel_81
+  - first:
+      213: -7787645282603882799
+    second: construction wheel_82
+  - first:
+      213: 5503546886273123038
+    second: construction wheel_83
+  - first:
+      213: 4319310931367892492
+    second: construction wheel_84
+  - first:
+      213: 2820931706291422234
+    second: construction wheel_85
+  - first:
+      213: 654273294951895586
+    second: construction wheel_86
+  - first:
+      213: -8910089303867858927
+    second: construction wheel_87
+  - first:
+      213: -5278550173338203460
+    second: construction wheel_88
+  - first:
+      213: 8883085546801952867
+    second: construction wheel_89
+  - first:
+      213: -6871521756153073575
+    second: construction wheel_90
+  - first:
+      213: -7603698275247008534
+    second: construction wheel_91
+  - first:
+      213: -9012774156985973352
+    second: construction wheel_92
+  - first:
+      213: -2604769645312212806
+    second: construction wheel_93
+  - first:
+      213: 6564059320134393321
+    second: construction wheel_94
+  - first:
+      213: -9222429419990390536
+    second: construction wheel_95
+  - first:
+      213: 13555173491148104
+    second: construction wheel_96
+  - first:
+      213: 5567601313371644389
+    second: construction wheel_97
+  - first:
+      213: 4128700799690160728
+    second: construction wheel_98
+  - first:
+      213: 2681926054781354176
+    second: construction wheel_99
+  - first:
+      213: 5083449757226804112
+    second: construction wheel_100
+  - first:
+      213: 1692435610800772420
+    second: construction wheel_101
+  - first:
+      213: 1132110122427292703
+    second: construction wheel_102
+  - first:
+      213: -3538286644529407887
+    second: construction wheel_103
+  - first:
+      213: 5184502512878855326
+    second: construction wheel_104
+  - first:
+      213: 6366716733774632990
+    second: construction wheel_105
+  - first:
+      213: 4864444838189196303
+    second: construction wheel_106
+  - first:
+      213: -1334743431970310451
+    second: construction wheel_107
+  - first:
+      213: 4977194577721898560
+    second: construction wheel_108
+  - first:
+      213: -7800576783763934011
+    second: construction wheel_109
+  - first:
+      213: -8683017360953237047
+    second: construction wheel_110
+  - first:
+      213: -1996457185905330988
+    second: construction wheel_111
+  - first:
+      213: 540463970068431407
+    second: construction wheel_112
+  - first:
+      213: 5703295488813357389
+    second: construction wheel_113
+  - first:
+      213: -7723820785934502556
+    second: construction wheel_114
+  - first:
+      213: 1288350095440528121
+    second: construction wheel_115
+  - first:
+      213: -3982709593659685873
+    second: construction wheel_116
+  - first:
+      213: -6613373702276302195
+    second: construction wheel_117
+  - first:
+      213: -3489853606235386936
+    second: construction wheel_118
+  - first:
+      213: 8397278006413502810
+    second: construction wheel_119
+  - first:
+      213: 1510287205316232462
+    second: construction wheel_120
+  - first:
+      213: 2212543478317946206
+    second: construction wheel_121
+  - first:
+      213: -6780370373979118739
+    second: construction wheel_122
+  - first:
+      213: -885238068845584026
+    second: construction wheel_123
+  - first:
+      213: 4889277433107435043
+    second: construction wheel_124
+  - first:
+      213: 2980000175057370093
+    second: construction wheel_125
+  - first:
+      213: 7000554941145778952
+    second: construction wheel_126
+  - first:
+      213: -550177419079831837
+    second: construction wheel_127
+  - first:
+      213: 3576913059047974450
+    second: construction wheel_128
+  - first:
+      213: 85303265931873549
+    second: construction wheel_129
+  - first:
+      213: 4127617300135815568
+    second: construction wheel_130
+  - first:
+      213: 247897794192731210
+    second: construction wheel_131
+  - first:
+      213: -6730631433079149538
+    second: construction wheel_132
+  - first:
+      213: -8207243401420727258
+    second: construction wheel_133
+  - first:
+      213: -6944399331505459255
+    second: construction wheel_134
+  - first:
+      213: 2821035449416033917
+    second: construction wheel_135
+  - first:
+      213: 5703082268562635104
+    second: construction wheel_136
+  - first:
+      213: 3684378737556578671
+    second: construction wheel_137
+  - first:
+      213: 853872323350897890
+    second: construction wheel_138
+  - first:
+      213: 2450406699082372748
+    second: construction wheel_139
+  - first:
+      213: 738276941341463902
+    second: construction wheel_140
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: construction wheel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf795b6fbf469190800000000000000
+      internalID: -7956084008145027148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: construction wheel_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa540279ac11860800000000000000
+      internalID: 7498997604978895494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: construction wheel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f8525cc02b81d0800000000000000
+      internalID: -3347545836092853555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: construction wheel_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7cdb1669740630800000000000000
+      internalID: 3892369457416011259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
